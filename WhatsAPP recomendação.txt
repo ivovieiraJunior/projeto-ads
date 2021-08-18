@@ -11,8 +11,7 @@ autarquia federal vinculada ao Ministério da Justiça e Segurança Pública, in
 Lei nº 4.137/1962, entidade judicante com jurisdição em todo o território nacional, por 
 meio de seu Presidente e Superintendente-Geral, no exercício das atribuições previstas 
 respectivamente nos artigos 10, inciso I, e 13, inciso I, ambos da Lei nº 12.529/2011;
-A AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS – ANPD, 
-órgão integrante da Presidência da República, responsável por zelar, implementar e 
+A AUTORIDADE NACIONAL DE PROTponsável por zelar, implementar e 
 fiscalizar o cumprimento da legislação de proteção de dados pessoais no país, no uso de 
 suas atribuições estabelecidas no art. 2º do Decreto Federal nº 10.474/2020 e do art. 55-
 J da Lei 13.709/2018 (Lei Geral de Proteção de Dados – LGPD);
@@ -36,3 +35,8 @@ meio de seu Presidente e Superintendente-Geral, no exercício das atribuições 
 respectivamente nos artigos 10, inciso I, e 13, inciso I, ambos da Lei nº 12.529/2011;
 A AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS – ANPD, 
 
+autarquia federal vinculada ao Ministério da Justiça e Segurança Pública, instituída pela 
+Lei nº 4.137/1962, entidade judicante com jurisdição em todo o território nacional, por 
+meio de seu Presidente e Superintendente-Geral, no exercício das atribuições previstas 
+respectivamente nos artigos 10, inciso I, e 13, inciso I, ambos da Lei nº 12.529/2011;
+A AUTORIDADE NACIONAL DE PROTEÇÃO DE DADOS – ANPD, 
